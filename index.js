@@ -12,7 +12,7 @@ function overwriteBestCustomer() {
 const leastFavoriteCustomer = 'some initial value';
 
 function changeLeastFavoriteCustomer() {
-    leastFavoriteCustomer = 'some new value'; // This should throw an error
+    leastFavoriteCustomer = 'some new value'; 
 }
 
 
